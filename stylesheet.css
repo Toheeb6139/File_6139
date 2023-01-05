@@ -35,9 +35,9 @@
   content: "";
   height: 2px;
   width: 0;
+  display: block;
+  margin: auto;
   background: red;
-  position: absolute;
-  left: 0;
   bottom: 0px;
   transition: 0.5s;
 }
